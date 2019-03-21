@@ -1,0 +1,168 @@
+INFO  Hooks:45 - Browser has been closed.
+INFO  Hooks:45 - Browser has been closed.
+INFO  Generic:157 - Page title is Pega Platform, as expected
+ERROR LoginPO:82 - Exception occurred in setUserName method - null
+ERROR LoginPO:95 - Exception occurred in setPassword method - null
+ERROR Generic:116 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:104 - Clicked on Login button
+ERROR LoginPO:125 - Exception occurred in verifyIsLoginSuccess method - null
+ERROR Generic:160 - Expected page title was Pega Case Manager Portal, but was Pega Platform instead
+INFO  Hooks:45 - Browser has been closed.
+INFO  Generic:157 - Page title is Pega Platform, as expected
+ERROR LoginPO:81 - Exception occurred in setUserName method - null
+ERROR LoginPO:93 - Exception occurred in setPassword method - null
+ERROR LoginPO:104 - Exception occurred in clickLoginbutton method - null
+ERROR LoginPO:123 - Exception occurred in verifyIsLoginSuccess method - null
+ERROR Generic:160 - Expected page title was Pega Case Manager Portal, but was Pega Platform instead
+INFO  Hooks:45 - Browser has been closed.
+ERROR Generic:122 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+ERROR Generic:122 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:86 - Entered UserName is - rules@12345
+ERROR Generic:122 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:92 - Login  button has Clicked
+INFO  Hooks:45 - Browser has been closed.
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:86 - Entered UserName is - rules@12345
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:92 - Login  button has Clicked
+INFO  Hooks:45 - Browser has been closed.
+INFO  Hooks:45 - Browser has been closed.
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:87 - Entered UserName is - rules@12345
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  null
+INFO  LoginPO:94 - Login  button has Clicked
+INFO  Hooks:45 - Browser has been closed.
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+INFO  LoginPO:87 - Entered UserName is - rules@12345
+INFO  LoginPO:94 - Login  button has Clicked
+INFO  LoginPO:108 - Login Success
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54040}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: 42638036336bb73b268be5ad009ab29d
+*** Element info: {Using=xpath, value=//span[contains(.,'New')][@class='menu-item-title']}
+INFO  HomePO:73 - Clicked on New Menu item
+ERROR HomePO:85 - Exception occurred in clickOnBenefit method - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54040}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: 42638036336bb73b268be5ad009ab29d
+*** Element info: {Using=xpath, value=//span[contains(.,'Benefit')][@class='menu-item-title']}
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+INFO  LoginPO:87 - Entered UserName is - rules@12345
+INFO  LoginPO:94 - Login  button has Clicked
+INFO  LoginPO:108 - Login Success
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54094}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: a55811ef0c9d6653f145de1c3fdc6a1b
+*** Element info: {Using=xpath, value=//span[contains(.,'New')][@class='menu-item-title']}
+INFO  HomePO:73 - Clicked on New Menu item
+ERROR HomePO:85 - Exception occurred in clickOnBenefit method - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54094}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: a55811ef0c9d6653f145de1c3fdc6a1b
+*** Element info: {Using=xpath, value=//span[contains(.,'Benefit')][@class='menu-item-title']}
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+INFO  LoginPO:87 - Entered UserName is - rules@12345
+INFO  LoginPO:94 - Login  button has Clicked
+INFO  LoginPO:108 - Login Success
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54124}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: 9efa4ce0e130a1b21599c5ff2bda7936
+*** Element info: {Using=xpath, value=//span[contains(.,'New')][@class='menu-item-title']}
+INFO  HomePO:73 - Clicked on New Menu item
+ERROR HomePO:85 - Exception occurred in clickOnBenefit method - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54124}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: 9efa4ce0e130a1b21599c5ff2bda7936
+*** Element info: {Using=xpath, value=//span[contains(.,'Benefit')][@class='menu-item-title']}
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+INFO  LoginPO:87 - Entered UserName is - rules@12345
+INFO  LoginPO:94 - Login  button has Clicked
+INFO  LoginPO:108 - Login Success
+INFO  HomePO:81 - Clicked on New Menu item
+INFO  HomePO:91 - Clicked on Benefit Case
+INFO  HomePO:103 - Clicked on Operator Icon
+INFO  HomePO:106 - Clicked on Logout button
+INFO  Hooks:39 - Browser has been closed.
+INFO  LoginPO:80 - Entered UserName is - kmahesh
+INFO  LoginPO:87 - Entered UserName is - rules@12345
+INFO  LoginPO:94 - Login  button has Clicked
+INFO  LoginPO:108 - Login Success
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54517}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: 2560bbf65f1d60d5b1535060d4e26f01
+*** Element info: {Using=xpath, value=//span[contains(.,'New')][@class='menu-item-title']}
+INFO  HomePO:81 - Clicked on New Menu item
+ERROR HomePO:93 - Exception occurred in clickOnBenefit method - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54517}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: 2560bbf65f1d60d5b1535060d4e26f01
+*** Element info: {Using=xpath, value=//span[contains(.,'Benefit')][@class='menu-item-title']}
+ERROR Generic:127 - Exception occurred in fnValidateWebElement method -  no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.75)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RVDIW10OFF05', ip: '172.16.0.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\kmahesh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54517}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.75, webStorageEnabled: true}
+Session ID: 2560bbf65f1d60d5b1535060d4e26f01
+*** Element info: {Using=xpath, value=//i[@data-test-id='px-opr-image-ctrl']}
+INFO  HomePO:103 - Clicked on Operator Icon
