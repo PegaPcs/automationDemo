@@ -13,7 +13,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import cucumber.api.Scenario;
 
-
+/**
+ * this file manages and creates the webdrivers.
+ * @author prithwish.das
+ *
+ */
 public class DriverFactory
 {
 	private static Logger log = Logger.getLogger(DriverFactory.class.getName());
